@@ -1,0 +1,8 @@
+# Void users: players marked with the small V badge next to their nametag
+# (Nametag Studio, with its "Void user badge" option on).
+#
+# One Minecraft name or UUID per line. Lines starting with # are comments.
+#
+# Example:
+#   Steve
+#   069a79f4-44e9-4726-a5be-fca90e38aaf5

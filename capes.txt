@@ -1,0 +1,16 @@
+# Void cape list: who wears which cape, as other Void players see it.
+#
+# One player per line:   player = cape_id
+#   player   a Minecraft name (case doesn't matter) or a UUID (with or without dashes)
+#   cape_id  an id from capes/index.json, or "none" for no Void cape
+# Optional fields after a semicolon:
+#   ; elytra=off   keep the vanilla elytra texture instead of the cape
+#
+# A UUID entry wins over a name entry for the same player. On offline-mode servers names
+# aren't verified (anyone can join as anyone), so prefer UUIDs for online accounts.
+# Lines starting with # are comments.
+#
+# Examples:
+#   Steve = void
+#   069a79f4-44e9-4726-a5be-fca90e38aaf5 = void_pulse
+#   Alex = void ; elytra=off

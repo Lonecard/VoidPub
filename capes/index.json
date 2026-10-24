@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "capes": {
+    "void": { "file": "void.png" },
+    "void_pulse": { "file": "void_pulse.png", "frames": 8, "frameMs": 90 }
+  }
+}
