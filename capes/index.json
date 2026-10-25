@@ -2,6 +2,7 @@
   "schema": 1,
   "capes": {
     "void": { "file": "void.png" },
-    "void_pulse": { "file": "void_pulse.png", "frames": 8, "frameMs": 90 }
+    "void_pulse": { "file": "void_pulse.png", "frames": 8, "frameMs": 90 },
+    "miku_x_teto": { "file": "miku_x_teto.png" }
   }
 }
