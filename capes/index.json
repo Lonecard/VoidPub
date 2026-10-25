@@ -3,6 +3,13 @@
   "capes": {
     "void": { "file": "void.png" },
     "void_pulse": { "file": "void_pulse.png", "frames": 8, "frameMs": 90 },
-    "miku_x_teto": { "file": "miku_x_teto.png" }
+    "miku_x_teto": { "file": "miku_x_teto.png" },
+    "DolSpearMace": { "file": "custom_dolphinspearmacecloak_vo_f10d4d.png", "frames": 30, "frameMs": 67 },
+    "DolSecretKiller": { "file": "custom_dolphinsecretkillercloak_a675b9.png", "frames": 38, "frameMs": 67 },
+    "DolGodMace": { "file": "custom_dolphingodmacecloak_void_fcd39e.png", "frames": 45, "frameMs": 66 },
+    "DolPurpleDolphin": { "file": "custom_image_1792925507188_546d70.png", "frames": 12, "frameMs": 200 },
+    "MugmCrescentMoon": { "file": "custom_mugmcrescentmooncloak_vo_2832ea.png", "frames": 45, "frameMs": 66 },
+    "MugmQuestion": { "file": "custom_mugmquestionmarkcloak_vo_c7043e.png", "frames": 45, "frameMs": 66 },
+    "BurningCards": { "file": "custom_springfirecards_void_1_af752e.png", "frames": 30, "frameMs": 70 }
   }
 }
